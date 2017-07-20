@@ -9,7 +9,8 @@ one should construe this presentation as a specific individualized
 recommendation to them. Before investing you should make your own independent
 evaluation of the investment based on your own circumstances. Any opinions or
 views expressed are that of the presenter and do not reflect the views of his
-current employer. The presenter has no affiliation with Quantopian. 
+current employer, Financial Trust Asset Management.The presenter has no 
+affiliation with Quantopian. 
 
 In the research notebooks, the performance information presented in certain
 charts or tables represent hypothetical backtested performance. Backtested
