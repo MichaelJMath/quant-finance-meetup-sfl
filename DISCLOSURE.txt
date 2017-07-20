@@ -1,0 +1,12 @@
+DISCLOSURE
+
+This repository is for educational purposes only and is not intended to be used
+as a primary basis of an investment decision, nor should it be construed as
+advice or a recommendation designed to meet particular investment needs of any
+investor. The creator has not considered any individual’s specific investment
+objective or financial situation in connection with this presentation, and no
+one should construe this presentation as a specific individualized 
+recommendation to them. Before investing you should make your own independent
+evaluation of the investment based on your own circumstances. Any opinions or
+views expressed are that of the presenter and do not reflect the views of his
+current employer. The presenter has no affiliation with Quantopian. 
